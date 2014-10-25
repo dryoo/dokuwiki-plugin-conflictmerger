@@ -1,0 +1,12 @@
+====== Una versión más reciente fue fusionada ======
+
+Existe una versión más reciente del documento que has editado. Esto sucede
+cuando otro usuario ha modificado el documento mientras lo estabas editando.
+
+Sin embargo, los cambios realizados no afectan a los hechos por ti, así que
+ambas versiones pudieron fusionarse automáticamente.
+
+
+Debajo se muestran las diferencias entre la última revisión del documento y la
+versión fusionada. Examínalas y decide si quieres salvar la versión fusionada
+ahora, editarla para hacer más cambios o cancelar la edición.

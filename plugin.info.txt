@@ -1,0 +1,8 @@
+base    conflictmerger
+author  Andreas Gohr
+email   andi@splitbrain.org
+date    2010-02-07
+name    ConflictMerger
+desc    a wiki
+url     https://www.dokuwiki.org/plugin:conflictmerger
+

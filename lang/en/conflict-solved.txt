@@ -1,0 +1,11 @@
+====== A newer version was merged ======
+
+A newer version of the document you edited exists. This happens when another
+user changed the document while you were editing it.
+
+However, the changes made don't affect those made by you, so both versions
+could be merged automatically.
+
+Below are shown the differences between the latest revision of the document and
+the merged version. Examine them, then decide if you want to save the merged
+version right now, edit it to make further changes, or cancel the edition.

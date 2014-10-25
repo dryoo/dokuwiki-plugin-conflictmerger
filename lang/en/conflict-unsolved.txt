@@ -1,0 +1,17 @@
+====== A newer version exists ======
+
+A newer version of the document you edited exists. This happens when another
+user changed the document while you were editing it.
+
+The changes made conflict with those made by you, so both versions couldn't be
+merged automatically.
+
+Below are shown the differences between the latest revision of the document and
+the one you are working on. Examine them, then decide if you want to save your
+version right now overwriting the latest revision, edit your version to adapt
+to the new contents, or cancel the edition.
+
+Note that if you edit your version but you don't fix the conflicts with the
+latest revision you'll get again this warning page when saving the edition.
+
+If the conflicts are fixed, you'll get another page informing you about it.

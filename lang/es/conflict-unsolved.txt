@@ -1,0 +1,19 @@
+====== Existe una versión más reciente ======
+
+Existe una versión más reciente del documento que has editado. Esto sucede
+cuando otro usuario ha modificado el documento mientras lo estabas editando.
+
+Los cambios realizados entran en conflicto con los hechos por ti, así que ambas
+versiones no pudieron fusionarse automáticamente.
+
+Debajo se muestran las diferencias entre la última revisión del documento y en
+la que estás trabajando. Examínalas y decide si quieres salvar tu versión ahora
+sobreescribiendo la última revisión, editar tu versión para adaptarla a los
+nuevos contenidos o cancelar la edición.
+
+Ten en cuenta que si editas tu versión pero no solucionas los conflictos con la
+última revisión se mostrará de nuevo esta página de aviso cuando salves la
+edición.
+
+Si los conflictos están solucionados, se mostrará otra página informándote sobre
+ello.
